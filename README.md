@@ -3,23 +3,15 @@
 
 # Sobre o projeto
 
-https://
+https://numerooculto.vercel.app/
 
 Guess Number é uma aplicação web que construída com intuito de praticar JS/HTML/CSS
 
 A aplicação consiste em dar palpites para acertar um numero aleatório.
-<!--
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
--->
+![Web 1](https://github.com/lgfvarella/GuessNumber/assets/GuessNumber.png)
 
 # Tecnologias utilizadas
 
@@ -39,7 +31,7 @@ Pré-requisitos: Nenhum
 ## Front end web
 Pré-requisitos: npm
 
-<!--
+
 ```bash
 # instalar npm live-server
 npm install -g live-server 
@@ -48,15 +40,15 @@ npm install -g live-server
 git clone https://github.com/lgfvarella/GuessNumber.git
 
 # entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
+cd GuessNumber
 
 # executar o projeto
-yarn start
+live-server --port=3000
+
+# acessar pelo navegador
+http://localhost:3000/index.html
 ```
--->
+
 # Autor
 
 Luis Gusstavo Fé Varella
