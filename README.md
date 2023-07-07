@@ -11,7 +11,7 @@ A aplicação consiste em dar palpites para acertar um numero aleatório.
 
 
 ## Layout web
-![Web 1](https://github.com/lgfvarella/GuessNumber/assets/GuessNumber.png)
+![Web 1](https://github.com/lgfvarella/GuessNumber/blob/main/assets/GuessNumber.png)
 
 # Tecnologias utilizadas
 
