@@ -1,5 +1,5 @@
 # Guess Number
-[![NPM](https://img.shields.io/npm/l/react)](https://)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lgfvarella/GuessNumber/edit/main/LICENSE)
 
 # Sobre o projeto
 
